@@ -18,5 +18,5 @@ Le dataset contient volontairement :
 - `Start Year` en format texte avec erreurs ("2020 AD", "Year 2020")
 - Outliers aberrants (décès négatifs, magnitude à 999)
 
-EXERCICE 9 :
+## EXERCICE 9
 lien: https://public.tableau.com/views/TP2-Visualisation-ChloM/Feuille1?:language=fr-FR&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
