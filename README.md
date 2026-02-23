@@ -19,7 +19,7 @@ Le dataset contient volontairement :
 - Outliers aberrants (décès négatifs, magnitude à 999)
 
 ## EXERCICE 9
-lien: https://public.tableau.com/views/TP2-Visualisation-ChloM/Feuille1?:language=fr-FR&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
+lien: [https://public.tableau.com/views/TP2-Visualisation-ChloM/Feuille1?:language=fr-FR&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TP2-Visualisation-ChloM/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### 3. Vérifiez dans l'écran "Source de données" :
