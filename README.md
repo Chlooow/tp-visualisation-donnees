@@ -21,7 +21,7 @@ Le dataset contient volontairement :
 ## EXERCICE 9
 
 ### Liens tableau publique
-lien: [https://public.tableau.com/views/TP2-Visualisation-ChloM/Feuille1?:language=fr-FR&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TP2-Visualisation-ChloM/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[https://public.tableau.com/views/TP2-Visualisation-ChloM/Feuille1?:language=fr-FR&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/TP2-Visualisation-ChloM/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
