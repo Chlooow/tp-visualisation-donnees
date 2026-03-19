@@ -59,4 +59,5 @@ Afin de l'accompagner dans ses prises de décisions, vous allez devoir construir
 
 ---
 
-> **Livrable** : Lien Tableau Public + synthèse écrite de vos recommandations pour Madame Lovelie (2 page max).
+> **Livrable** : Lien Tableau Public :
+> synthèse écrite : .
