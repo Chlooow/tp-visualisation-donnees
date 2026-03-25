@@ -26,13 +26,8 @@ Elle vous confie un jeu de données de **5 500 rendez-vous** [`dataset_salons_lo
 Afin de l'accompagner dans ses prises de décisions, vous allez devoir construire des visualisations sur Tableau Public afin de répondre aux 9 questions ci-dessous.
 
 ---
-
-### Consignes
-
-- Importez le CSV dans Tableau Public et vérifiez les types de données.
-- Créez **une feuille par question** avec la visualisation appropriée.
-- **Attention** : certaines questions nécessitent de ne travailler que sur un sous-ensemble des données. Demandez-vous systématiquement si toutes les lignes du dataset sont pertinentes pour répondre à la question posée !
-
+### Lien Tableau
+https://public.tableau.com/views/TP3-Visualisation-Chloe/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ### Questions
@@ -59,5 +54,3 @@ Afin de l'accompagner dans ses prises de décisions, vous allez devoir construir
 
 ---
 
-> **Livrable** : Lien Tableau Public :
-> synthèse écrite : .
