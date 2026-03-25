@@ -19,15 +19,9 @@ Chaque ligne représente le résultat d'un candidat dans une commune à un tour 
 Votre mission consiste à réaliser les visualisations demandées sur Tableau Public pour éclairer l'analyse politique du cabinet.
 
 ---
+### Lien vers Tableau
 
-### Consignes
-
-- Importez le CSV dans Tableau Public et vérifiez les types de données.
-- Créez **une feuille par question** avec la visualisation appropriée.
-- Le type de graphique attendu est indiqué entre parenthèses à la fin de chaque question.
-
-Chaque ligne du dataset représente un **candidat** (pas une commune). Certaines informations comme la participation, les abstentions, les bulletins blancs et nuls sont donc répétées sur plusieurs lignes pour une même commune.
-
+https://public.tableau.com/views/TP4-Visualisation-ElectionsMunicipales/Q4_Scoremoyendesexprimsparparti1ertour?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ### Questions
